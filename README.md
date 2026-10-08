@@ -1,5 +1,6 @@
-Możesz wykorzystywać projekt do własnych stron, edytować go oraz podmieniać produkty, ceny, zdjęcia i dane kontaktowe.
+You can use this project for your own websites, edit it, and replace the products, prices, images, and contact details.
 
-Projekt zawiera stronę główną, produkty, koszyk, zamówienie, regulamin, dostawę i kontakt.
+The project includes a homepage, product page, shopping cart, order form, terms and conditions, delivery information, and contact page.
 
-> Projekt jest wersją front-endową — nie zawiera prawdziwych płatności, bazy danych ani obsługi zamówień.
+> This project is a front-end template — it does not include real payments, a database, or order processing.
+
